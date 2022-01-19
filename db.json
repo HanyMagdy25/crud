@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "hany",
+      "email": "hany@gmail.com",
+      "contact": "2142165",
+      "address": "Egypt"
+    },
+    {
+      "id": 2,
+      "name": "magdy",
+      "email": "magdy@gmail.com",
+      "contact": "4789212",
+      "address": "Egypt"
+    },
+    {
+      "name": "amr",
+      "email": "amr@yaas.com",
+      "contact": "652154",
+      "address": "mansoura",
+      "id": 3
+    }
+  ]
+}
